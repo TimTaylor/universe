@@ -2,5 +2,18 @@
     {
         "package": "regplateR",
         "url": "https://git.sr.ht/~htgb/regplateR"
+    },
+
+    {
+        "package": "testCommits",
+        "url": "https://github.com/timtaylor/testCommits",
+        "branch": "1c78e2401f2113559fb6f718523c059b029f2b5d"
+    },
+
+    {
+        "package": "testUniverse",
+        "url": "https://github.com/timtaylor/testUniverse",
+
     }
+
 ]
