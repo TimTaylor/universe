@@ -6,6 +6,12 @@
     },
 
     {
+        "package": "coffee",
+        "url": "https://git.sr.ht/~htgb/coffee",
+        "subdir": "pkg"
+    },
+
+    {
         "package": "surveyTools",
         "url": "https://github.com/timtaylor/surveyTools"
     }
