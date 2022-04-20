@@ -14,5 +14,10 @@
     {
         "package": "surveyTools",
         "url": "https://github.com/timtaylor/surveyTools"
+    },
+
+    {
+        "package": "NHSmod11",
+        "url": "https://github.com/timtaylor/NHSmod11"
     }
 ]
