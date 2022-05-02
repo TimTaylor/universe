@@ -7,17 +7,17 @@
 
     {
         "package": "coffee",
-        "url": "https://git.sr.ht/~htgb/coffee",
+        "url": "https://github.com/TimTaylor/coffee",
         "subdir": "pkg"
     },
 
     {
         "package": "surveyTools",
-        "url": "https://github.com/timtaylor/surveyTools"
+        "url": "https://github.com/TimTaylor/surveyTools"
     },
 
     {
         "package": "NHSmod11",
-        "url": "https://github.com/timtaylor/NHSmod11"
+        "url": "https://github.com/TimTaylor/NHSmod11"
     }
 ]
