@@ -8,7 +8,6 @@
     {
         "package": "coffee",
         "url": "https://github.com/TimTaylor/coffee",
-        "subdir": "pkg"
     },
 
     {
@@ -19,5 +18,11 @@
     {
         "package": "NHSmod11",
         "url": "https://github.com/TimTaylor/NHSmod11"
+    },
+
+    {
+        "package": "episodes",
+        "url": "https://github.com/TimTaylor/episodes"
     }
+
 ]
