@@ -18,11 +18,5 @@
     {
         "package": "NHSmod11",
         "url": "https://github.com/TimTaylor/NHSmod11"
-    },
-
-    {
-        "package": "episodes",
-        "url": "https://github.com/TimTaylor/episodes"
     }
-
 ]
