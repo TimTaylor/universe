@@ -2,5 +2,10 @@
     {
         "package": "surveyTools",
         "url": "https://github.com/TimTaylor/surveyTools"
+    },
+
+    {
+    	"package": "ympes",
+    	"url": "https://github.com/TimTaylor/ympes"
     }
 ]
