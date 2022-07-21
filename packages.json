@@ -1,22 +1,6 @@
 [
     {
-        "package": "regplateR",
-        "url": "https://github.com/TimTaylor/regplateR",
-        "subdir": "pkg"
-    },
-
-    {
-        "package": "coffee",
-        "url": "https://github.com/TimTaylor/coffee",
-    },
-
-    {
         "package": "surveyTools",
         "url": "https://github.com/TimTaylor/surveyTools"
-    },
-
-    {
-        "package": "NHSmod11",
-        "url": "https://github.com/TimTaylor/NHSmod11"
     }
 ]
