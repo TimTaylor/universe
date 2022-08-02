@@ -1,11 +1,6 @@
 [
     {
-        "package": "surveyTools",
+        "package": "qalytools",
         "url": "https://github.com/TimTaylor/qalytools"
-    },
-
-    {
-    	"package": "ympes",
-    	"url": "https://github.com/TimTaylor/ympes"
     }
 ]
